@@ -1,2 +1,2 @@
 # Resume-website
-My Reume Website
+My Resume Website
